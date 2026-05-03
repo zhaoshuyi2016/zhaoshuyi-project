@@ -1,4 +1,4 @@
-# ZYYO主页PHP后台版本
+# ZSY主页PHP后台版本
  
 - 支持对图标、项目、分类、主题样式、标签、描述、左侧信息进行增删改查。  
 - 方便编辑名称、图标、点击.js事件等。  
@@ -41,7 +41,7 @@
 - 支持**背景整体模糊**和**卡片模糊**，可通过 CSS 切换。  
 - 使用**原生 HTML、CSS、JS**，未使用框架或插件。  
 
-**GitHub**：[https://github.com/ZYYO666/homepage](https://github.com/ZYYO666/homepage)  
+**GitHub**：[https://github.com/zhaoshuyi2016/zhaoshuyi-project](https://github.com/zhaoshuyi2016/zhaoshuyi-project)
 **QQ群下载**：560938976  
 
 **后续计划**：  
